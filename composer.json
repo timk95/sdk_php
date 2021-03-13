@@ -20,11 +20,11 @@
         }
     ],
     "require": {
-        "php": "^7.2",
+        "php": "^7.4|^8.0",
         "ext-curl": "*",
         "ext-json": "*",
         "ext-mbstring": "*",
-        "guzzlehttp/guzzle": "~7"
+        "guzzlehttp/guzzle": "^7.2"
     },
     "autoload": {
         "psr-4": {
